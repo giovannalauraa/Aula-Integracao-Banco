@@ -46,7 +46,9 @@ Aula para aprender a integrar o banco de dados ao projeto.
 ![alt text](https://github.com/giovannalauraa/Aula-Integracao-Banco/blob/325c5e7a101c71e0a7d7b4b97009cdf1d0c18fcc/bdd-6.png)
 
 <br>
+
 ### Clicar duas vezes em Apply*
+
 <br>
 
 ![alt text](https://github.com/giovannalauraa/Aula-Integracao-Banco/blob/325c5e7a101c71e0a7d7b4b97009cdf1d0c18fcc/bdd-7.png)
