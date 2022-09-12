@@ -1,4 +1,5 @@
 # Aula-Integracao-Banco
+Aula para aprender a integrar o banco de dados ao projeto.
 
 ### Roteiro da Aula
 
